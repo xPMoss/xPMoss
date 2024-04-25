@@ -52,4 +52,12 @@
 <a href="https://www.linkedin.com/in/patrikmossberg">linkedin.com/in/patrikmossberg</a>
 </td>
 </tr>
+<tr style="width:100%;">
+<td>
+<a href="https://github.com/xPMoss"><img style="width:100%;" alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+</td>
+<td>
+<a href="https://github.com/xPMoss">[github.com/xPMoss</a>
+</td>
+</tr>
 </table>
