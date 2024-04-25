@@ -3,7 +3,7 @@
 
 <table>
 <tr><td>
-<pre><a href="https://xpmoss.github.io"><img alt="githubpages" src="https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a></pre>
+<a href="https://xpmoss.github.io"><img alt="githubpages" src="https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a>
 </td></tr>
 </table>
 
