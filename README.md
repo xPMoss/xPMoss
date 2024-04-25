@@ -44,7 +44,7 @@
 | ![behance](https://img.shields.io/badge/behance-1769FF?style=for-the-badge&logo=behance&logoColor=white) |[behance.net/xpm35](<https://www.behance.net/xpm35>) |
 
 <table style="width:100%;">
-<tr>
+<tr style="width:100%;">
 <td>
 <a href="https://www.linkedin.com/in/patrikmossberg"><img style="width:100%;" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 </td>
