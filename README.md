@@ -15,7 +15,13 @@ You can add an image or a code block, too.
 ```
 
 </details>
-#xPM
+> xPM
+
+<picture>
+ 
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
+</picture>
 
 ![githubpages](https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white")
 [xpmoss.github.io](<https://xpmoss.github.io>)
