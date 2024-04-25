@@ -1,11 +1,12 @@
 
 <h3>xPM</h3>
 <img alt="githubpages Badge" src="https://img.shields.io/badge/github pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
+<br/>
 <a href="https://xpmoss.github.io">xpmoss.github.io</a>
 
 #
 <h3>Skills</h3>
-<img alt="Angular Badge" src="https://img.shields.io/badge/Angular-de002d?style=for-the-badge&logo=Angular&logoColor=white"><img alt="Bootstrap Badge" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Jquery&logoColor=white"><img alt="Jquery Badge" src="https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+|<img alt="Angular Badge" src="https://img.shields.io/badge/Angular-de002d?style=for-the-badge&logo=Angular&logoColor=white">|<img alt="Bootstrap Badge" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Jquery&logoColor=white">|<img alt="Jquery Badge" src="https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">|
 <br/>
 
 <img alt="Typescript Badge" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
@@ -47,7 +48,7 @@
 <a href="https://www.linkedin.com/in/patrikmossberg">linkedin.com/in/patrikmossberg</a>
 <br/><br/>
 
-<img alt="GitHub Badge" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white&link=https://xpmoss.github.io">
+<img alt="GitHub Badge" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/xPMoss">
 <br/>
 <a href="https://github.com/xPMoss">github.com/xPMoss</a>
 <br/><br/>
