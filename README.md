@@ -37,27 +37,25 @@
 ## Social
 |  |  |
 |---|---|
-| ![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white) |[linkedin.com/in/patrikmossberg](<https://www.linkedin.com/in/patrikmossberg>) |
-| ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/xPMoss") |[github.com/xPMoss](<https://github.com/xPMoss>) |
 | ![turbosquid](https://img.shields.io/badge/turbosquid-FF8135?style=for-the-badge&logo=turbosquid&logoColor=white) |[turbosquid.com/Search/Artists/wemg](<https://www.turbosquid.com/Search/Artists/wemg?referral=wemg>) |
 | ![vimeo](https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white) |[vimeo.com/cgfx](<https://vimeo.com/cgfx>) |
 | ![behance](https://img.shields.io/badge/behance-1769FF?style=for-the-badge&logo=behance&logoColor=white) |[behance.net/xpm35](<https://www.behance.net/xpm35>) |
 
-<table style="width:100%;">
-<tr style="width:100%;">
+<table>
+<tr>
 <td>
-<a href="https://www.linkedin.com/in/patrikmossberg"><img style="width:100%;" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/patrikmossberg"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 </td>
 <td>
 <a href="https://www.linkedin.com/in/patrikmossberg">linkedin.com/in/patrikmossberg</a>
 </td>
 </tr>
-<tr style="width:100%;">
+<tr>
 <td>
-<a href="https://github.com/xPMoss"><img style="width:100%;" alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+<a href="https://github.com/xPMoss"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 </td>
 <td>
-<a href="https://github.com/xPMoss">[github.com/xPMoss</a>
+<a href="https://github.com/xPMoss">github.com/xPMoss</a>
 </td>
 </tr>
 </table>
