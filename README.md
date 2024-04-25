@@ -12,7 +12,7 @@
 ![nodedotjs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-![angular](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
+![typescript](https://img.shields.io/badge/typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=Html5&logoColor=white)
 ![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=Css3&logoColor=white)
@@ -20,12 +20,11 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white)
 ![Csharp](https://img.shields.io/badge/Csharp-512BD4?style=for-the-badge&logo=Csharp&logoColor=white)
 ![devops](https://img.shields.io/badge/DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![pipelines](https://img.shields.io/badge/Pipelines-2560E0?style=for-the-badge&logo=azurepipelines&logoColor=white)
 
 ![visualstudiocode](https://img.shields.io/badge/Visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![visualstudio](https://img.shields.io/badge/visual_studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-![firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![firebase](https://img.shields.io/badge/firebase-F7DF1E?style=for-the-badge&logo=firebase&logoColor=black)
 ![powerautomate](https://img.shields.io/badge/power_automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
 ![cinema4d](https://img.shields.io/badge/Cinema_4D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white)

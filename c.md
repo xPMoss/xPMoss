@@ -3,6 +3,7 @@
 <img alt="githubpages Badge" src="https://img.shields.io/badge/github pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
 <br/>
 <a href="https://xpmoss.github.io">xpmoss.github.io</a>
+![pipelines](https://img.shields.io/badge/Pipelines-2560E0?style=for-the-badge&logo=azurepipelines&logoColor=white)
 
 #
 | Header 1 | Header 2 | Link |
