@@ -1,6 +1,6 @@
 
 <!-- ### xPM -->
-<a href="https://xpmoss.github.io"><img style="width:50%;" alt="githubpages" src="https://img.shields.io/badge/xpmoss.github.io-202020?style=for-the-badge&label=Webpage&labelColor=101010"></a>
+<a href="https://xpmoss.github.io"><img style="width:50%;" alt="website" src="https://img.shields.io/badge/xpmoss.github.io-202020?style=for-the-badge&label=Website&labelColor=101010"></a>
 
 #
 ### Skills
