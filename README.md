@@ -11,8 +11,8 @@
 | Row 2    | ![Alt](https://img.shields.io/badge/Angular-de002d?style=for-the-badge&logo=Angular&logoColor=white) |[More Info](<https://example.com>)   |
 
 
-![Alt](https://img.shields.io/badge/Angular-de002d?style=for-the-badge&logo=Angular&logoColor=white)
-![Alt](https://img.shields.io/badge/Angular-de002d?style=for-the-badge&logo=Angular&logoColor=white)
+![angular](https://img.shields.io/badge/Angular-de002d?style=for-the-badge&logo=Angular&logoColor=white)
+![angular](https://img.shields.io/badge/Angular-de002d?style=for-the-badge&logo=Angular&logoColor=white)
 #
 <h3>Skills</h3>
 <img alt="Angular Badge" src="https://img.shields.io/badge/Angular-de002d?style=for-the-badge&logo=Angular&logoColor=white">
