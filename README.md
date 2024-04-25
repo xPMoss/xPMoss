@@ -4,28 +4,21 @@
 <br/>
 <a href="https://xpmoss.github.io">xpmoss.github.io</a>
 
-#
-| Header 1 | Header 2 | Link |
-|----------|----------|----------|
-| Row 1    | [img](<https://example.com>)    | [Link](<https://example.com>)     |
-| Row 2    | ![Alt](https://img.shields.io/badge/Angular-de002d?style=for-the-badge&logo=Angular&logoColor=white) |[More Info](<https://example.com>)   |
 
 #
 <h3>Skills</h3>
 
 ![angular](https://img.shields.io/badge/Angular-de002d?style=for-the-badge&logo=Angular&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquery, f](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&Link=https://example.com)
+![jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&Link=https://example.com)
 
 ![angular](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=Html5&logoColor=white)
 ![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=Css3&logoColor=white)
 
-
-<img alt="nodedotjs Badge" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img alt="npm Badge" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-<br/><br/>
+![nodedotjs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 <img alt=".NET Badge" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white">
 <img alt="Csharp Badge" src="https://img.shields.io/badge/Csharp-512BD4?style=for-the-badge&logo=Csharp&logoColor=white">
@@ -51,28 +44,11 @@
 
 #
 <h3>Social</h3>
-<img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
-<br/>
-<a href="https://www.linkedin.com/in/patrikmossberg">linkedin.com/in/patrikmossberg</a>
-<br/><br/>
 
-<img alt="GitHub Badge" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/xPMoss">
-<br/>
-<a href="https://github.com/xPMoss">github.com/xPMoss</a>
-<br/><br/>
-
-<img alt="Turbosquid Badge" src="https://img.shields.io/badge/turbosquid-FF8135?style=for-the-badge&logo=Turbosquid&logoColor=white">
-<br/>
-<a href="https://www.turbosquid.com/Search/Artists/wemg?referral=wemg">turbosquid.com/Search/Artists/wemg</a>
-<br/><br/>
-
-<img alt="Vimeo Badge" src="https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white">
-<br/>
-<a href="https://vimeo.com/cgfx">vimeo.com/cgfx</a>
-<br/><br/>
-
-<img alt="behance Badge" src="https://img.shields.io/badge/behance-1769FF?style=for-the-badge&logo=behance&logoColor=white">
-<br/>
-<a href="https://www.behance.net/xpm35">behance.net/xpm35</a>
-<br/><br/>
-
+| Social |  |
+|---|---|
+| ![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white) |[linkedin.com/in/patrikmossberg](<https://www.linkedin.com/in/patrikmossberg>) |
+| ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/xPMoss") |[github.com/xPMoss](<https://github.com/xPMoss>) |
+| ![turbosquid](https://img.shields.io/badge/turbosquid-FF8135?style=for-the-badge&logo=turbosquid&logoColor=white) |[turbosquid.com/Search/Artists/wemg](<https://www.turbosquid.com/Search/Artists/wemg?referral=wemg>) |
+| ![vimeo](https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white) |[vimeo.com/cgfx](<https://vimeo.com/cgfx>) |
+| ![behance](https://img.shields.io/badge/behance-1769FF?style=for-the-badge&logo=behance&logoColor=white) |[behance.net/xpm35](<https://www.behance.net/xpm35>) |
