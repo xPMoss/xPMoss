@@ -1,9 +1,25 @@
 
-<h3>xPM</h3>
 
-| xPM | |
-|---|---|
-|![githubpages](https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white")|[xpmoss.github.io](<https://xpmoss.github.io>)|
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   Hello World
+```
+
+</details>
+#xPM
+
+![githubpages](https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white")
+[xpmoss.github.io](<https://xpmoss.github.io>)
+
 
 #
 <h3>Skills</h3>
@@ -11,14 +27,14 @@
 ![angular](https://img.shields.io/badge/Angular-de002d?style=for-the-badge&logo=Angular&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&Link=https://example.com)
+![nodedotjs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ![angular](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=Html5&logoColor=white)
 ![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=Css3&logoColor=white)
 
-![nodedotjs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 <img alt=".NET Badge" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white">
 <img alt="Csharp Badge" src="https://img.shields.io/badge/Csharp-512BD4?style=for-the-badge&logo=Csharp&logoColor=white">
