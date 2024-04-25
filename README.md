@@ -1,7 +1,8 @@
 
 ### xPM
-![githubpages](https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white")
-[xpmoss.github.io](<https://xpmoss.github.io>)
+|  |  |
+|---|---|
+| ![githubpages](https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white") | [xpmoss.github.io](<https://xpmoss.github.io>) |
 
 #
 ## Skills
@@ -27,13 +28,12 @@
 ![firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![powerautomate](https://img.shields.io/badge/power_automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
-
-<img alt="Cinema 4D Badge" src="https://img.shields.io/badge/Cinema 4D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white">
-<img alt="Adobe Effects Badge" src="https://img.shields.io/badge/After Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
-<img alt="Adobe Illustrator Badge" src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
-<img alt="Adobe Photoshop Badge" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-<img alt="Adobe Premiere Pro Badge" src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
-<img alt="Adobe XD Badge" src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white">
+![cinema4d](https://img.shields.io/badge/Cinema_4D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white)
+![adobeaftereffects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![adobeillustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![adobephotoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![adobepremierepro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![adobexd](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 
 #
 ## Social
