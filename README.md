@@ -35,12 +35,7 @@
 #
 
 ## Social
-|  |  |
-|---|---|
-| ![turbosquid](https://img.shields.io/badge/turbosquid-FF8135?style=for-the-badge&logo=turbosquid&logoColor=white) |[turbosquid.com/Search/Artists/wemg](<https://www.turbosquid.com/Search/Artists/wemg?referral=wemg>) |
-
 <table>
-
 <tr>
 <td>
 <a href="https://www.linkedin.com/in/patrikmossberg"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
