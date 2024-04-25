@@ -5,6 +5,15 @@
 <a href="https://xpmoss.github.io">xpmoss.github.io</a>
 
 #
+| Header 1 | Header 2 | Link |
+|----------|----------|----------|
+| Row 1    | [img](<https://example.com>)    | [Link](<https://example.com>)     |
+| Row 2    | ![Alt](https://img.shields.io/badge/Angular-de002d?style=for-the-badge&logo=Angular&logoColor=white) |[More Info](<https://example.com>)   |
+
+
+![Alt](https://img.shields.io/badge/Angular-de002d?style=for-the-badge&logo=Angular&logoColor=white)
+![Alt](https://img.shields.io/badge/Angular-de002d?style=for-the-badge&logo=Angular&logoColor=white)
+#
 <h3>Skills</h3>
 <img alt="Angular Badge" src="https://img.shields.io/badge/Angular-de002d?style=for-the-badge&logo=Angular&logoColor=white">
 <img alt="Bootstrap Badge" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Jquery&logoColor=white">
