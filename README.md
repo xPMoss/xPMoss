@@ -1,9 +1,11 @@
 
-### xPM
-|  |  |
-|---|---|
-| ![githubpages](https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white") | [xpmoss.github.io](<https://xpmoss.github.io>) |
-#
+<!-- ### xPM -->
+
+<table>
+<tr><td>
+<pre><a href="https://xpmoss.github.io"><img alt="githubpages" src="https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a></pre>
+</td></tr>
+</table>
 
 ## Skills
 ![angular](https://img.shields.io/badge/Angular-de002d?style=for-the-badge&logo=Angular&logoColor=white)
@@ -43,5 +45,3 @@
 | ![turbosquid](https://img.shields.io/badge/turbosquid-FF8135?style=for-the-badge&logo=turbosquid&logoColor=white) |[turbosquid.com/Search/Artists/wemg](<https://www.turbosquid.com/Search/Artists/wemg?referral=wemg>) |
 | ![vimeo](https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white) |[vimeo.com/cgfx](<https://vimeo.com/cgfx>) |
 | ![behance](https://img.shields.io/badge/behance-1769FF?style=for-the-badge&logo=behance&logoColor=white) |[behance.net/xpm35](<https://www.behance.net/xpm35>) |
-
-<!-- This content will not appear in the rendered Markdown -->
