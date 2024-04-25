@@ -46,7 +46,7 @@
 <table style="width:100%;">
 <tr>
 <td>
-<a href="https://www.linkedin.com/in/patrikmossberg"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/patrikmossberg"><img style="width:100%;" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 </td>
 <td>
 <a href="https://www.linkedin.com/in/patrikmossberg">linkedin.com/in/patrikmossberg</a>
