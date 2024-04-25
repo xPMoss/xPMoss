@@ -6,7 +6,9 @@
 
 #
 <h3>Skills</h3>
-|<img alt="Angular Badge" src="https://img.shields.io/badge/Angular-de002d?style=for-the-badge&logo=Angular&logoColor=white">|<img alt="Bootstrap Badge" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Jquery&logoColor=white">|<img alt="Jquery Badge" src="https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">|
+<img alt="Angular Badge" src="https://img.shields.io/badge/Angular-de002d?style=for-the-badge&logo=Angular&logoColor=white">
+<img alt="Bootstrap Badge" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Jquery&logoColor=white">
+<img alt="Jquery Badge" src="https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <br/>
 
 <img alt="Typescript Badge" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
@@ -17,7 +19,6 @@
 <img alt="nodedotjs Badge" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img alt="npm Badge" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 <br/><br/>
-
 
 <img alt=".NET Badge" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white">
 <img alt="Csharp Badge" src="https://img.shields.io/badge/Csharp-512BD4?style=for-the-badge&logo=Csharp&logoColor=white">
