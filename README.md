@@ -1,9 +1,9 @@
 
 <h3>xPM</h3>
-<img alt="githubpages Badge" src="https://img.shields.io/badge/github pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
-<br/>
-<a href="https://xpmoss.github.io">xpmoss.github.io</a>
 
+| xPM | |
+|---|---|
+|![githubpages](https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white")|[xpmoss.github.io](<https://xpmoss.github.io>)|
 
 #
 <h3>Skills</h3>
