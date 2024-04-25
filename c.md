@@ -87,3 +87,16 @@
 <a href="https://www.behance.net/xpm35">behance.net/xpm35</a>
 <br/><br/>
 
+
+<details>
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+![angular](https://img.shields.io/badge/Angular-de002d?style=for-the-badge&logo=Angular&logoColor=white)
+![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&Link=https://example.com)
+```ruby
+   Hello World
+```
+</details>
